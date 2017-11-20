@@ -3,8 +3,7 @@
 #include <iostream>
 #include <string>
 #include "ShoppingMall.h"
-
-
+//jia yi hang zhushi
 
 class BaseProduct
 {
